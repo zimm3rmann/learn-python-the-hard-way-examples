@@ -16,3 +16,5 @@ ex15_sample.txt
 .idea/vcs.xml
 
 .idea/workspace.xml
+
+*.pyc
